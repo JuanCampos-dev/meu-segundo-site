@@ -1,6 +1,6 @@
 # meu-Segundo Projeto
 
-Este é meu segundo site, criado para praticar desenvolvimento front-end.
+Este é meu segundo site, em HTML, CSS, JAVASCRIPT.
 
 ## 🌐 Projeto online
 👉  https://juancampos-dev.github.io/meu-segundo-site/
