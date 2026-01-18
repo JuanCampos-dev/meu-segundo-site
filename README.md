@@ -3,7 +3,7 @@
 Este é meu segundo site, criado para praticar desenvolvimento front-end.
 
 ## 🌐 Projeto online
-👉 https://JuanCampos-dev.github.io/meu-segundo-site/
+👉  https://juancampos-dev.github.io/meu-segundo-site/
 
 ## 🛠️ Tecnologias usadas
 - HTML
