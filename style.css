@@ -1,0 +1,29 @@
+body{
+    padding: auto;
+    color: white;
+    background-color: rgb(12, 12, 14);
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    padding-top:100px;
+}
+
+button{
+    padding: 15.16;
+    font-size: 25px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #00ff99;
+    transition: 0.3s;
+}
+
+button:hover{
+    transform: scale(1.5);
+
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
